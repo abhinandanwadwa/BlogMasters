@@ -2,7 +2,7 @@
 
 **Made with ❤ By DVS Tech Labs**
 
-
+An Open Source Alternative to Blogger.
 
 Please give this repo a ⭐ it really helps us!
 
