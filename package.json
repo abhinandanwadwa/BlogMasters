@@ -1,0 +1,19 @@
+{
+  "name": "blogmasters",
+  "version": "1.0.0",
+  "description": "BlogMasters. An Open Source Alternative To Blogger.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devarshishimpi/BlogMasters.git"
+  },
+  "author": "DVS Tech Labs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devarshishimpi/BlogMasters/issues"
+  },
+  "homepage": "https://github.com/devarshishimpi/BlogMasters#readme"
+}
